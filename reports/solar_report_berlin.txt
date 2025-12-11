@@ -1,0 +1,12 @@
+Solar Energy Savings Report
+==============================
+Location: Berlin
+Monthly Bill: $12000.0
+Daily Solar kWh: 12.0 kWh
+Estimated Daily Saving: $60.00
+Estimated Monthly Saving: $1800.00
+CO₂ Saved Yearly: 2160.00 kg
+Trees Equivalent Saved: 99.26 trees/year
+
+Recommendation:
+Use high-power appliances during peak sunlight hours (10 AM - 4 PM)

@@ -1,0 +1,12 @@
+Solar Energy Savings Report
+==============================
+Location: usa
+Monthly Bill: $1.0
+Daily Solar kWh: 1.0 kWh
+Estimated Daily Saving: $5.00
+Estimated Monthly Saving: $150.00
+CO₂ Saved Yearly: 180.00 kg
+Trees Equivalent Saved: 8.27 trees/year
+
+Recommendation:
+Use high-power appliances during peak sunlight hours (10 AM - 4 PM)
